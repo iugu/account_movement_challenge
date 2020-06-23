@@ -36,7 +36,8 @@ A saída deve ser exibida na tela (stdout). Deve ser uma lista de todas as conta
   Ex: 123,37742 (Saldo final de R$ 377,42 na conta 123).
 ## Entrega do projeto
 - Você deverá utilizar Ruby como linguagem de programação, e o uso de frameworks e gems ficará por sua conta!
-- Seu projeto deverá ser entrege através do github, em um repositório público ou privado, na sua própria conta do github. Depois envie o link dele para nós. Se você fez eu um repositório privado, dê acesso de leitura para os usuários: *@noelrocha*, *@agramms*, *@silviolrjunior* e *@Marcovecchio*. Se não conseguir compartilhar para todos, compartilhe para pelo menos dois destes usuários.
+- Seu projeto deverá ser entregue através do github, em um repositório público ou privado, na sua própria conta do github. Depois ENVIE o link dele para nós. 
+- Se você fez eu um repositório privado, dê acesso de leitura para os usuários: *@noelrocha*, *@agramms*, *@silviolrjunior* e *@Marcovecchio*. Se não conseguir compartilhar para todos, compartilhe para pelo menos dois destes usuários.
 - Sua solução deverá conter um arquivo README.md com as instruções de como executar o código
 ## Opcionais ( mas dá pontos extras! )
 - Utilizar **Docker** / **Docker Compose** para que sua aplicação possa ser executada dentro de containeres, e o setup do ambiente seja facilitado.
